@@ -79,7 +79,7 @@ export default function Navbar() {
 
         </Left>
 
-        <Center ><LogoCenter className='LogoCenter'>Tanakora</LogoCenter></Center>
+        <Center ><LogoCenter className='LogoCenter'>Payam</LogoCenter></Center>
         <Right className="Right">
           <Link to="/register" style={{textDecoration:"none",color:"black"}}><RightItem >Rigester</RightItem></Link>
           <Link to="/login" style={{textDecoration:"none",color:"black"}}><RightItem >SignIn</RightItem></Link>
